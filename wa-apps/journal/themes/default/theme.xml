@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme PUBLIC "wa-app-theme" "http://www.webasyst.com/wa-content/xml/wa-app-theme.dtd">
+<theme id="default" system="0" vendor="" author="" app="journal" version="1.0.0">
+    <name locale="en_US">Default 3.0</name>
+    <name locale="ru_RU">Дефолт 3.0</name>
+    <files>
+        <file path="index.html" custom="0">
+            <description locale="en_US"></description>
+            <description locale="ru_RU"></description>
+        </file>
+    </files>
+    <about locale="en_US"></about>
+    <about locale="ru_RU"></about>
+</theme>
